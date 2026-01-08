@@ -41,6 +41,13 @@ Durante o desenvolvimento do projeto, foram aplicados os seguintes conceitos:
 
 ---
 
+## 📥 Baixe a Planilha
+Você pode baixar a planilha do projeto diretamente pelo link abaixo:
+
+👉 [Clique aqui para baixar a planilha de Declaração de Imposto de Renda](https://github.com/Jessica-SFernandes/declara-oIR/blob/main/declara%C3%A7%C3%A3oIR.xlsx)
+
+---
+
 ## 👩‍💻 Autora
 **Jéssica Fernandes**  
 Estudante de Ciência da Computação
